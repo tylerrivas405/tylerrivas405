@@ -20,7 +20,7 @@ Growing up outside of Silicon Valley gave me an early, front-row seat to the rap
 
 ---
 
-📫 **How to reach me:** www.linkedin.com/in/tyler-rivas-947304213?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+📬 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/tyler-rivas-947304213/)
 
 
 <!--
