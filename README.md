@@ -1,6 +1,6 @@
 # Hi, I'm Tyler Rivas 👋
 
-I am a Cybersecurity professional driven by a deep-rooted passion for the field. My journey is built on a foundation of both physical and digital expertise, shaped by my background in telecommunications and hands-on infrastructure setup.
+I am a Cybersecurity enthusiast and practicioner driven by a deep-rooted passion for the field. My journey is built on a foundation of both physical and digital expertise, shaped by my background in telecommunications and hands-on infrastructure setup.
 
 Growing up outside of Silicon Valley gave me an early, front-row seat to the rapid evolution of technology, which ignited my curiosity for how systems are built—and how they are secured.
 
