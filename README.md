@@ -19,8 +19,14 @@ Growing up outside of Silicon Valley gave me an early, front-row seat to the rap
 * My hands-on lab projects and vulnerability analysis write-ups.
 
 ---
+### How to reach me
+- LinkedIn: [Tyler Rivas](https://www.linkedin.com/in/tyler-rivas-947304213/)
+- TryHackMe: [ninjaroll707](https://tryhackme.com/p/ninjaroll707)
+- Hack The Box: [your HTB profile](https://profile.hackthebox.com/profile/019e7071-45a6-71ae-8152-f6f04a985286)
+- Email: [tylerrivas405@gmail.com](mailto:tylerrivas405@gmail.com)
 
-📬 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/tyler-rivas-947304213/)
+  ### Content
+- Instagram: [Rogueninja707](https://www.instagram.com/rogueninja707/) — Cybersecurity, game security tips, and gameplay content
 
 
 <!--
