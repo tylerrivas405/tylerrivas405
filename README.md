@@ -1,45 +1,39 @@
-# Hi, I'm Tyler Rivas 👋
+# Tyler Rivas
+**IT Support & Field Services | Network Cabling | Windows & Linux | Cybersecurity Fundamentals**
 
-I am a Cybersecurity enthusiast and practicioner driven by a deep-rooted passion for the field. My journey is built on a foundation of both physical and digital expertise, shaped by my background in telecommunications and hands-on infrastructure setup.
+I am building a career in IT support and infrastructure, drawing on professional technical field operations, customer support, logistics, and team leadership. My experience as a Lead Technician at NCI Life Safety Assistance included working with technical schematics and specialized equipment in compliance-focused field environments.
 
-Growing up outside of Silicon Valley gave me an early, front-row seat to the rapid evolution of technology, which ignited my curiosity for how systems are built—and how they are secured.
+I have completed the Google IT Support Professional Certificate, Google Cybersecurity Professional Certificate, TryHackMe Cybersecurity 101, and Goodwill Central Oklahoma network cabling training. I am preparing for CompTIA Security+.
 
-### 🛡️ My Technical Foundation
-* **Cybersecurity:** Certified in both Google IT Support & Cybersecurity. Focused on SOC analysis, threat detection, and vulnerability research.
-* **Infrastructure:** Experienced in telecommunications and physical network installation. I understand that security starts at the physical layer.
-* **Core Competencies:** Network protocols, SIEM technologies (Splunk), Kali Linux, and automation with Python.
+**Current focus:** IT field support, desktop troubleshooting, device deployment, networking fundamentals, technical documentation, and practical service-delivery skills.
 
-### 🔭 Current Focus
-* 🚀 **Lab Documentation:** Actively documenting my journey through IT and cybersecurity labs in my [Cybersecurity-Lab-Journal](https://github.com/tylerrivas405/Cybersecurity-Lab-Journal).
-* 💡 **Continuous Learning:** Cybersecurity is not just a career path for me—it is my core passion. Regardless of the professional landscape, I am committed to constant study, staying ahead of emerging threats, and refining my analytical tradecraft.
+## Technical foundation
+| Area | Skills and tools |
+| --- | --- |
+| IT support | Windows troubleshooting, hardware diagnostics, customer support, documentation |
+| Networking | TCP/IP, DNS, DHCP, Ethernet cabling, RJ45 terminations, connectivity diagnostics |
+| Systems | Windows 10/11, Linux, PowerShell, command line, virtualization fundamentals |
+| Security | Wireshark, network security, SIEM/EDR and incident response fundamentals |
+| Operations | Field coordination, technical schematics, equipment handling, SOPs, compliance |
 
-### 💬 Ask Me About
-* Setting up physical network infrastructure.
-* Transitioning from telecom to cybersecurity.
-* My hands-on lab projects and vulnerability analysis write-ups.
+## Selected work and learning
+- **[Cybersecurity & IT Lab Journal](https://github.com/tylerrivas405/Cybersecurity-Lab-Journal):** documented training exercises and technical learning across security, networking and IT fundamentals.
+- **[Learning PDF Library](https://github.com/tylerrivas405/Learning-PDF-Library):** a reference archive of study resources, separate from hands-on project evidence.
+- **[Hack Fit Adaptive Fitness](https://github.com/tylerrivas405/hack-fit-adaptive-fitness):** early-stage software architecture project; not presented as a production application.
 
----
-### How to reach me
-- LinkedIn: [Tyler Rivas](https://www.linkedin.com/in/tyler-rivas-947304213/)
-- TryHackMe: [ninjaroll707](https://tryhackme.com/p/ninjaroll707)
-- Hack The Box: [your HTB profile](https://profile.hackthebox.com/profile/019e7071-45a6-71ae-8152-f6f04a985286)
-- Email: [tylerrivas405@gmail.com](mailto:tylerrivas405@gmail.com)
+## Project documentation standards
+For technical work I aim to record the objective, environment, tools, steps taken, diagnostic evidence, observed results and limitations. Lab exercises are labeled as practice—not paid customer deployments.
 
-  ### Content
-- Instagram: [Rogueninja707](https://www.instagram.com/rogueninja707/) — Cybersecurity, game security tips, and gameplay content
+## Certifications and training
+- Google IT Support Professional Certificate
+- Google Cybersecurity Professional Certificate
+- TryHackMe Cybersecurity 101
+- Goodwill Central Oklahoma — Introduction to Network Cabling and Workplace Computer Skills
+- CompTIA Security+ — preparation in progress (not yet certified)
 
+## Connect
+- [LinkedIn](https://www.linkedin.com/in/tyler-rivas-947304213/)
+- [TryHackMe](https://tryhackme.com/p/ninjaroll707)
+- [Hack The Box](https://profile.hackthebox.com/profile/019e7071-45a6-71ae-8152-f6f04a985286)
 
-<!--
-**tylerrivas405/tylerrivas405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Interested in IT Field Support, IT Deployment, Desktop Support, Help Desk and entry-level Network Operations opportunities.*
